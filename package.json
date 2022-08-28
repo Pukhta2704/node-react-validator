@@ -1,0 +1,19 @@
+{
+  "name": "@pukhta/react-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pukhta2704/node-react-validator.git"
+  },
+  "author": "Imtiyaz Pukhta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pukhta2704/node-react-validator/issues"
+  },
+  "homepage": "https://github.com/Pukhta2704/node-react-validator#readme"
+}
